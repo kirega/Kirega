@@ -1,8 +1,8 @@
 ### Hi there 👋
 I am Joseph, a fullstack engineer from Nairobi, Kenya.
 I specialize in Angular,Python, NodeJs and Elixir. 
-Ready to Collaborate
 
+Ready to Collaborate 😃
 <!--
 **kirega/Kirega** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
