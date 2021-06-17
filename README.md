@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am Joseph, a fullstack engineer from Nairobi, Kenya.
+I'm Joseph, a fullstack engineer from Nairobi, Kenya.
 I specialize in Angular,Python, NodeJs and Elixir. 
 
 Ready to Collaborate 😃
