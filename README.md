@@ -9,8 +9,8 @@ Ready to Collaborate 😃
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ... Elixir
-- 🌱 I’m currently learning ... Elixir
+- 🌱 I’m currently learning ... Kubernetes
 - 👯 I’m looking to collaborate on ... Elixir, Angular
 - 🤔 I’m looking for help with ... Elixir
-- 💬 Ask me about ... Angular, Python
+- 💬 Ask me about ... Elixir
 -->
