@@ -1,6 +1,5 @@
 ### Hi there 👋
-I'm Joseph, a fullstack engineer from Nairobi, Kenya.
-I specialize in Angular,Python, NodeJs and Elixir. 
+I'm Joseph, currently building the Africa's next unicorn
 
 Ready to Collaborate 😃
 <!--
@@ -9,7 +8,7 @@ Ready to Collaborate 😃
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ... Elixir
-- 🌱 I’m currently learning ... Kubernetes
+- 🌱 I’m currently learning ... Go
 - 👯 I’m looking to collaborate on ... Elixir, Angular
 - 🤔 I’m looking for help with ... Elixir
 - 💬 Ask me about ... Elixir
