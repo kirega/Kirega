@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Joseph, currently building the Africa's next unicorn
+I'm Joseph, currently building Africa's next unicorn
 
 Ready to Collaborate 😃
 <!--
